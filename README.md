@@ -19,3 +19,4 @@ Control the snake `O` to eat the fruit `@`. Each fruit increases your score by 1
 | `X` | Exit Game |
 
 ## 📸 Preview
+https://github.com/ricardokingw-ang/Simple-snake-game/tree/main
